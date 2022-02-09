@@ -1,0 +1,68 @@
+<advancedjava>
+    <listContacts>
+        <Person>
+            <firstName>firstName1</firstName>
+            <lastName>lastName1</lastName>
+            <street>some street</street>
+            <postalCode>1234</postalCode>
+            <city>some city</city>
+            <birthday>19720321</birthday>
+        </Person>
+        <Person>
+            <firstName>firstName3</firstName>
+            <lastName>lastName3</lastName>
+            <street>some street</street>
+            <postalCode>1234</postalCode>
+            <city>some city</city>
+            <birthday>19830502</birthday>
+        </Person>
+        <Person>
+            <firstName>firstName2</firstName>
+            <lastName>lastName2</lastName>
+            <street>some street</street>
+            <postalCode>1234</postalCode>
+            <city>some city</city>
+            <birthday>19800403</birthday>
+        </Person>
+        <Person>
+            <firstName>firstName8</firstName>
+            <lastName>lastName8</lastName>
+            <street>some street</street>
+            <postalCode>1234</postalCode>
+            <city>some city</city>
+            <birthday>20150316</birthday>
+        </Person>
+        <Person>
+            <firstName>firstName5</firstName>
+            <lastName>lastName5</lastName>
+            <street>some street</street>
+            <postalCode>1234</postalCode>
+            <city>some city</city>
+            <birthday>19890604</birthday>
+        </Person>
+        <Person>
+            <firstName>firstName6</firstName>
+            <lastName>lastName6</lastName>
+            <street>some street</street>
+            <postalCode>1234</postalCode>
+            <city>some city</city>
+            <birthday>19950930</birthday>
+        </Person>
+        <Person>
+            <firstName>firstName4</firstName>
+            <lastName>lastName4</lastName>
+            <street>some street</street>
+            <postalCode>1234</postalCode>
+            <city>some city</city>
+            <birthday>19860102</birthday>
+        </Person>
+        <Person>
+            <firstName>firstName7</firstName>
+            <lastName>lastName7</lastName>
+            <street>some street</street>
+            <postalCode>1234</postalCode>
+            <city>some city</city>
+            <birthday>20061208</birthday>
+        </Person>
+    </listContacts>
+</advancedjava>
